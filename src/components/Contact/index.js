@@ -37,7 +37,7 @@ export const Contact = () =>
             <div>
               <button className="submit">Submit</button>
               <span id="image-loader">
-                <img alt src="images/loader.gif" />
+                <img alt src="assets/images/loader.gif" />
               </span>
             </div>
           </fieldset>
